@@ -15,5 +15,11 @@ More information can be found below:
 
 - [Website](https://surreyears.co.uk)
 - [Project & History Site](https://surreyears.github.io)
-- [LinkedIn](https://www.linkedin.com/company/surreyears/)
 - [Linktree](https://linktr.ee/SurreyEARS)
+
+[<img src="assets/img/instagram.png" width=64>](https://instagram.com/surreyears)
+[<img src="assets/img/youtube.png" width=64>](https://www.youtube.com/@SurreyEARS)
+[<img src="assets/img/facebook.png" width=64>](https://www.facebook.com/surreyEARS)
+[<img src="assets/img/twitter.png" width=64>](https://x.com/SurreyEARS)
+[<img src="assets/img/linkedin.png" width=64>](https://www.linkedin.com/company/surreyears/)
+[<img src="assets/img/gmail.png" width=64>](mailto:hello@surreyears.co.uk)
