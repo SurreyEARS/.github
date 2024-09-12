@@ -1,6 +1,6 @@
 # Hello World! :wave:
 
-![](BannerWebsite3-2048x1024.png)
+![](BannerWebsite3-2048x1024_blackbg.png)
 
 Welcome to the GitHub organisation for the University of Surrey's Electronics and Amateur Radio Society.
 
