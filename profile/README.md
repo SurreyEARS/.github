@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="BannerWebsite3-2048x1024.png">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="BannerWebsite3-2048x1024_blackbg.png">
+  <img src="BannerWebsite3-2048x1024_blackbg.png">
 </picture>
 
 Welcome to the GitHub organisation for the University of Surrey's Electronics and Amateur Radio Society.
