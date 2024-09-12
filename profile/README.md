@@ -1,8 +1,8 @@
 # Hello World! :wave:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="BannerWebsite3-2048x1024.png">
-  <img src="BannerWebsite3-2048x1024_blackbg.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/img/BannerWebsite3-2048x1024.png">
+  <img src="assets/img/BannerWebsite3-2048x1024_blackbg.png">
 </picture>
 
 Welcome to the GitHub organisation for the University of Surrey's Electronics and Amateur Radio Society.
